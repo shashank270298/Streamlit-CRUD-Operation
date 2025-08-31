@@ -110,3 +110,10 @@ def main():
             
 if __name__ == '__main__':
     main()
+
+
+st.markdown("---")
+st.caption(
+    "<p style='text-align: center; color: gray;'>© 2025 • Designed by <b>Shashank Sharma</b></p>",
+    unsafe_allow_html=True
+)
